@@ -1,0 +1,15 @@
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.pdb
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.pdb
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.csproj.AssemblyReference.cache
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.AssemblyInfoInputs.cache
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.AssemblyInfo.cs
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.csproj.CopyComplete
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.pdb
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.deps.json
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Persistence\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Persistence.pdb

@@ -1,0 +1,3 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.App\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>

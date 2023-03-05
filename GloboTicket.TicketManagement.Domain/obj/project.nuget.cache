@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Du/uHVqLn3qpLHco4ug5xAxDY1nBzGesA1EyR4VeTMQ75BWrIsv96s/9XilFh7B4ArFDrgzqrG4n36u9JybA0A==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\architecting-asp-dot-net-core-applications-best-practices\\09\\demos\\end\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

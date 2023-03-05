@@ -1,0 +1,15 @@
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.pdb
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.pdb
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.AssemblyInfo.cs
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.csproj.CopyComplete
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.pdb
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.deps.json
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.dll
+C:\dev\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Infrastructure.pdb
